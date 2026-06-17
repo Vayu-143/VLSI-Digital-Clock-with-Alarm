@@ -1,0 +1,42 @@
+# Simulation files
+*.vcd
+*.fst
+*.lxt
+*.vvp
+
+# Executables
+clock_sim
+*.exe
+*.out
+
+# Vivado
+*.jou
+*.log
+*.str
+*.cache
+*.runs
+*.sim
+*.hw
+*.ip_user_files
+*.xpr
+
+# ModelSim
+transcript
+*.wlf
+modelsim.ini
+work/
+
+# GTKWave
+*.gtkw
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
