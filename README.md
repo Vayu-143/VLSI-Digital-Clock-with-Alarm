@@ -86,9 +86,6 @@ VLSI-Digital-Clock-with-Alarm/
 │   ├── minute_rollover.png
 │   └── seconds_counter.png
 │
-├── reports/
-│   └── Project_Report.pdf
-│
 ├── rtl/
 │   ├── clock_divider.v
 │   ├── bcd_counter.v
